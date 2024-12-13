@@ -1,8 +1,8 @@
-# **osTicket Installation and Configuration**
-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo" width="500"/>
 </p>
+
+# **osTicket Installation and Configuration**
 
 This repository demonstrates my ability to deploy and configure the osTicket support ticket system. It highlights my skills in server setup, web application deployment, and database management.
 
