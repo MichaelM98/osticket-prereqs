@@ -73,5 +73,4 @@ Through this project, I demonstrated my ability to deploy a fully functional hel
 - Configuring secure environments.
 - Setting up and managing relational databases.
 
-This project showcases my readiness for entry-level IT support or help desk roles.
 
